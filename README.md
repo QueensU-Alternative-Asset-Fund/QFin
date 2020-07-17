@@ -4,4 +4,4 @@ This repo contains projects concerned with finanical markets, equities, global e
 
 Example: Cargojet Forecasted Share Price Performance (Predicted March 2020)
 
-![alt text](https://github.com/[BrandonToushan]/[Finance]/blob/[branch]/Cargojet.ong?raw=true)
+![alt text](https://github.com/BrandonToushan/Finance/blob/master/Cargojet.png)
